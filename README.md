@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un apasionado de la tecnología, la programación y el desarrollo de soluciones prácticas, tanto en el área de telecomunicaciones como en software. También soy Speedcuber, campeón nacional en la categoria 2x2 en el año 2022 y delegado de Argentina.
+Me gusta todo lo que se relaciona con la tecnología, la programación y el desarrollo de soluciones prácticas, tanto en el área de telecomunicaciones como en software. También soy Speedcuber, campeón nacional en la categoria 2x2 en el año 2022 y delegado de Argentina.
 
 - 🎓 Estudio Ingeniería en Telecomunicaciones
 - 📡 Interesado en Comunicaciones Ópticas, Digitales y Sistemas Inteligentes
@@ -15,7 +15,6 @@ Soy un apasionado de la tecnología, la programación y el desarrollo de solucio
 
 - **Lenguajes:** Python, Bash, MATLAB, QML, (aprendiendo C++ cuando es necesario)
 - **Herramientas:** Qt Creator, Git, VS Code, scikit-learn, PyTorch
-- **Sistemas:** Linux (con preferencia por evitar `sudo apt install` cuando puedo usar `pip install` 😉)
 
 ## 📌 Objetivo
 
